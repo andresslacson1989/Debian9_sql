@@ -1,8 +1,8 @@
 Debian 9 64Bit VPN SERVER
-Webserver, Webmin, Openssh, Dropbear, Openvpn, Squid, Badvpn, Stunnel-SSL, AntiRootKit
-======================================================================================
+Webserver, Webmin, Openssh, Dropbear, Openvpn, Squid, Badvpn, Stunnel-SSL, AntiRootKit, SQL Authentication
+==========================================================================================================
 Installation 
 
-Debian 9 64bit : wget https://github.com/andresslacson1989/Debian9/raw/master/kvm-Install9.sh && chmod +x kvm-Install9.sh && ./kvm-Install9.sh
+Debian 9 64bit : wget https://github.com/andresslacson1989/Debian9_sql/raw/master/kvm-Install9sql.sh && chmod +x kvm-Install9sql.sh && ./kvm-Install9sql.sh
 
 Official PhCyber Script
