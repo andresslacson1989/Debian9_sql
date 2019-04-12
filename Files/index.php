@@ -57,7 +57,7 @@
 	<h2>PhCyber DEV Team</h2>
 	<p>VPN Server</p>
 
-	<p>Contact PhCyber Dev Team for more info about setting up your own server.
+	<p>Contact PhCyber Dev Team for more info about setting up your own VPN and VPN Server.
 	<br> Official Website: <a href="https://phcyber.com">www.phcyber.com</a>
 	<br> Official Discord Server: <a href="https://phcyber.com">https://discord.gg/urjvh5f</a>
 	</p>
