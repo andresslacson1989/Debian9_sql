@@ -44,28 +44,24 @@
 	  <li class="nav-item">
 	    <a class="nav-link <?php if ($CURRENT_PAGE == "Index") {?>active<?php }?>" href="index.php">Home</a>
 	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "About") {?>active<?php }?>" href="https://phcyber.com">About Us</a>
-	  </li>
-	  <li class="nav-item">
-	    <a class="nav-link <?php if ($CURRENT_PAGE == "Contact") {?>active<?php }?>" href="https://phcyber.com/support/">Contact Us</a>
-	  </li>
+	
 	</ul>
 </div>
 
 <div class="container" id="main-content">
-	<h2>PhCyber DEV Team</h2>
+	<h2>Wifitunnel DEV Team</h2>
 	<p>VPN Server</p>
 
-	<p>Contact PhCyber Dev Team for more info about setting up your own VPN and VPN Server.
-	<br> Official Website: <a href="https://phcyber.com">www.phcyber.com</a>
-	<br> Official Discord Server: <a href="https://phcyber.com">https://discord.gg/urjvh5f</a>
+	<p>Wifitunnel VPN Official Server.
+	<br>Email: <a href="mailto:wifitunnel1@gmail.com">wifitunnel1@gmail.com</a>.<br> 
 	</p>
 	
 </div>
 
 <div class="footer">
 	&copy; <?php print date("Y");?>
+	<br> Developer: <a href="https://phcyber.com">Cyber</a>
+	<br> Copyright 2019
 </div>
 
 </body>
