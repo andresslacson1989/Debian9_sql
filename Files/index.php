@@ -53,7 +53,7 @@
 	<p>VPN Server</p>
 
 	<p>Wifitunnel VPN Official Server.
-	<br>Email: <a href="mailto:wifitunnel1@gmail.com">wifitunnel1@gmail.com</a>.<br> 
+	<br>Email: <a href="mailto:wifitunnel1@gmail.com">wifitunnel1@gmail.com</a><br> 
 	</p>
 	
 </div>
