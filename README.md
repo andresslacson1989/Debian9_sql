@@ -8,4 +8,7 @@ Debian 9 64bit : wget https://github.com/andresslacson1989/Debian9_sql/raw/maste
 Update:
 Debian 9 64bit : wget https://github.com/andresslacson1989/Debian9_sql/raw/master/kvm-newInstall9sql.sh && chmod +x kvm-newInstall9sql.sh && ./kvm-newInstall9sql.sh
 
+OpenVPN and OpnenConnect Setup
+Debian 9 64bit : weet https://github.com/andresslacson1989/Debian9_sql/raw/master/install && chmod +x install && ./install
+
 Official PhCyber Script
