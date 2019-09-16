@@ -17,4 +17,7 @@ Debian 9 64bit :
 
 wget https://github.com/andresslacson1989/Debian9_sql/raw/master/install && chmod +x install && ./install
 
+Add SSH users: 
+wget https://github.com/andresslacson1989/Debian9_sql/raw/master/users && chmod +x users && ./users
+
 Official PhCyber Script
